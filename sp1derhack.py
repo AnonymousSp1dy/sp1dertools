@@ -355,6 +355,7 @@ if choose==number:
     print("admin")
     print("user")
     print("username")
+    feeling = input("You happy bruh?: ")
     
 if choose==num2:
     print(" _____  _     _     _     _                                                                            ")
@@ -388,12 +389,12 @@ if choose==num2:
             print(response.headers)
         
         sendPhish("youremail@mail.com", "sp1dermanhackerisgood@gmail.com", "Hello", "Test")
+        
+        print("Spoofed email sent")
+        print("Spoofed email sent")
+        print("Spoofed email sent")
+        
     else:
         quit()
 else:
     print("Error") + quit()
-        
- 
-    
-    
-    
