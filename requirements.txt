@@ -1,0 +1,8 @@
+# Phishing spoofer only works on Linux
+# You have to create a SendGrid account (https://app.sendgrid.com/)
+# You have to verify your api key in another python console before you use the phishing tool
+# Write the following there:
+echo "export SENDGRID_API_KEY='Ypur Key'" > sendgrid.env
+echo "sendgrid.env" >> .gitignore
+source ./sendgrid.env
+pip install sendgrid
