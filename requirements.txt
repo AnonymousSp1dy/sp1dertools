@@ -1,3 +1,0 @@
-# You have to have Python 3
-# You have to go to the cource code and change "your email" to your actual email (Dont use main) and then change "passw" to that emails password (The actual email has to be a Gmail email)
-# Sorry guys, I know this is a really easy coded project but I was really stressed and I will maybe update this soon xD
